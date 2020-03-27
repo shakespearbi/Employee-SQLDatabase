@@ -9,7 +9,7 @@ An ERD of the tables was sketched out using [quickDBD](http://www.quickdatabased
 Using the ERD as referrence, a table schema was created for each of the six CSV files. Each table specified the appropriate data types, primary keys, foreign keys, and other constraints. Once the SQL tables are defined, each CSV is imported into the corresponding table. 
 
 ### Data Analysis
-The following questions are answered:
+All that remains is to retrieve answers from the databases, which involves selecting data with SELECT statements, and joining tables by a primary key. The following questions are answered:
 1. List the following details of each employee: employee number, last name, first name, gender, and salary.
 
 2. List employees who were hired in 1986.
