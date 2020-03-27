@@ -1,6 +1,6 @@
 # Employer Database
 
-This is a research project on employees of Pewlett Hackward from the 1980s and 1990s. The database contains six CVS files pertaining to the employees' information such as their salaries employee numbers, etc...
+This is a research project on employees of Pewlett Hackward from the 1980s and 1990s. The database contains six CVS files pertaining to the employees' information such as their salaries employee numbers, etc... The objective is to use SQL to query data and answer questions about the employees. 
 
 ### Data Modeling
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
